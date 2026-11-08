@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 24//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Май 20
+ 24
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2024-05-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+SUMMARY:Нерабочий праздничный день: Праздни
+ к Весны и Труда
+DESCRIPTION:Праздник Весны и Труда — нерабочи
+ й праздничный день по ТК РФ\, ст. 112. Произ
+ водственный календарь: https://proizvodstvenny-kalenda
+ r.ru/2024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-05-09-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240509
+DTEND;VALUE=DATE:20240510
+SUMMARY:Нерабочий праздничный день: День Поб
+ еды
+DESCRIPTION:День Победы — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-05-10-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+SUMMARY:Выходной день (перенос с 6 января)
+DESCRIPTION:Выходной перенесён с 6 января на 10 
+ мая. Источник: постановление № 1338 от 10.08.2
+ 023\, http://publication.pravo.gov.ru/document/0001202308180053
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

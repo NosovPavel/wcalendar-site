@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 27//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Март 
+ 2027
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2027-03-08-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Нерабочий праздничный день: Междуна
+ родный женский день
+DESCRIPTION:Международный женский день — нера
+ бочий праздничный день по ТК РФ\, ст. 112. П
+ роизводственный календарь: https://proizvodstvenny
+ -kalendar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 24//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Янва
+ рь 2024
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2024-01-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-01-02-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240102
+DTEND;VALUE=DATE:20240103
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-01-03-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240103
+DTEND;VALUE=DATE:20240104
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-01-04-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240104
+DTEND;VALUE=DATE:20240105
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-01-05-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240105
+DTEND;VALUE=DATE:20240106
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-01-06-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-01-07-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240107
+DTEND;VALUE=DATE:20240108
+SUMMARY:Нерабочий праздничный день: Рождест
+ во Христово
+DESCRIPTION:Рождество Христово — нерабочий пр
+ аздничный день по ТК РФ\, ст. 112. Производс
+ твенный календарь: https://proizvodstvenny-kalendar.ru/202
+ 4/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-01-08-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240108
+DTEND;VALUE=DATE:20240109
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

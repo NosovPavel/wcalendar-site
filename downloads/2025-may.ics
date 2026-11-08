@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 25//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Май 20
+ 25
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2025-05-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Нерабочий праздничный день: Праздни
+ к Весны и Труда
+DESCRIPTION:Праздник Весны и Труда — нерабочи
+ й праздничный день по ТК РФ\, ст. 112. Произ
+ водственный календарь: https://proizvodstvenny-kalenda
+ r.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-05-02-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:Выходной день (перенос с 4 января)
+DESCRIPTION:Выходной перенесён с 4 января на 2 м
+ ая. Источник: постановление № 1335 от 04.10.202
+ 4\, http://publication.pravo.gov.ru/document/0001202410040023
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-05-08-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY:Выходной день (перенос с 23 февраля)
+DESCRIPTION:Выходной перенесён с 23 февраля на 8
+  мая. Источник: постановление № 1335 от 04.10.
+ 2024\, http://publication.pravo.gov.ru/document/0001202410040023
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-05-09-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Нерабочий праздничный день: День Поб
+ еды
+DESCRIPTION:День Победы — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

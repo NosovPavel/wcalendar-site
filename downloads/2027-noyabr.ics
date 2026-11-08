@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 27//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Нояб
+ рь 2027
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2027-11-04-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:Нерабочий праздничный день: День нар
+ одного единства
+DESCRIPTION:День народного единства — нерабоч
+ ий праздничный день по ТК РФ\, ст. 112. Прои
+ зводственный календарь: https://proizvodstvenny-kalen
+ dar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-11-05-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:Выходной день (перенос с 2 января)
+DESCRIPTION:Выходной перенесён с 2 января на 5 н
+ оября. Источник: постановление № 1187 от 17.
+ 09.2026\, http://publication.pravo.gov.ru/document/0001202609180037
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

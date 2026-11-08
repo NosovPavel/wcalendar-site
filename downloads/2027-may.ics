@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 27//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Май 20
+ 27
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2027-05-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Нерабочий праздничный день: Праздни
+ к Весны и Труда
+DESCRIPTION:Праздник Весны и Труда — нерабочи
+ й праздничный день по ТК РФ\, ст. 112. Произ
+ водственный календарь: https://proizvodstvenny-kalenda
+ r.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-05-03-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Выходной день (перенос с 1 мая)
+DESCRIPTION:Выходной перенесён с 1 мая на 3 мая. 
+ Источник: ТК РФ\, ст. 112
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-05-09-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Нерабочий праздничный день: День Поб
+ еды
+DESCRIPTION:День Победы — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-05-10-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Выходной день (перенос с 9 мая)
+DESCRIPTION:Выходной перенесён с 9 мая на 10 мая.
+  Источник: ТК РФ\, ст. 112
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

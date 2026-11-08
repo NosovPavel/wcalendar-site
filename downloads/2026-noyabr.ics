@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 26//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Нояб
+ рь 2026
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2026-11-04-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Нерабочий праздничный день: День нар
+ одного единства
+DESCRIPTION:День народного единства — нерабоч
+ ий праздничный день по ТК РФ\, ст. 112. Прои
+ зводственный календарь: https://proizvodstvenny-kalen
+ dar.ru/2026/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

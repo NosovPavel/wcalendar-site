@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 24//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Июнь 
+ 2024
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2024-06-12-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240612
+DTEND;VALUE=DATE:20240613
+SUMMARY:Нерабочий праздничный день: День Рос
+ сии
+DESCRIPTION:День России — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2024/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

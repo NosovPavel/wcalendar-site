@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 24//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Апре
+ ль 2024
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2024-04-29-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240430
+SUMMARY:Выходной день (перенос с 27 апреля)
+DESCRIPTION:Выходной перенесён с 27 апреля на 29 
+ апреля. Источник: постановление № 1338 от 1
+ 0.08.2023\, http://publication.pravo.gov.ru/document/0001202308180053
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2024-04-30-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+SUMMARY:Выходной день (перенос с 2 ноября)
+DESCRIPTION:Выходной перенесён с 2 ноября на 30 
+ апреля. Источник: постановление № 1338 от 1
+ 0.08.2023\, http://publication.pravo.gov.ru/document/0001202308180053
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

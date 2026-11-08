@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 27//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь 2027
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2027-01-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-01-02-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-01-03-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-01-04-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-01-05-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-01-06-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-01-07-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Нерабочий праздничный день: Рождест
+ во Христово
+DESCRIPTION:Рождество Христово — нерабочий пр
+ аздничный день по ТК РФ\, ст. 112. Производс
+ твенный календарь: https://proizvodstvenny-kalendar.ru/202
+ 7/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-01-08-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-02-22-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Выходной день (перенос с 20 февраля)
+DESCRIPTION:Выходной перенесён с 20 февраля на 2
+ 2 февраля. Источник: постановление № 1187 о
+ т 17.09.2026\, http://publication.pravo.gov.ru/document/0001202609180037
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-02-23-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Нерабочий праздничный день: День защ
+ итника Отечества
+DESCRIPTION:День защитника Отечества — нерабо
+ чий праздничный день по ТК РФ\, ст. 112. Про
+ изводственный календарь: https://proizvodstvenny-kal
+ endar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-03-08-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Нерабочий праздничный день: Междуна
+ родный женский день
+DESCRIPTION:Международный женский день — нера
+ бочий праздничный день по ТК РФ\, ст. 112. П
+ роизводственный календарь: https://proizvodstvenny
+ -kalendar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-05-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Нерабочий праздничный день: Праздни
+ к Весны и Труда
+DESCRIPTION:Праздник Весны и Труда — нерабочи
+ й праздничный день по ТК РФ\, ст. 112. Произ
+ водственный календарь: https://proizvodstvenny-kalenda
+ r.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-05-03-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Выходной день (перенос с 1 мая)
+DESCRIPTION:Выходной перенесён с 1 мая на 3 мая. 
+ Источник: ТК РФ\, ст. 112
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-05-09-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Нерабочий праздничный день: День Поб
+ еды
+DESCRIPTION:День Победы — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-05-10-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Выходной день (перенос с 9 мая)
+DESCRIPTION:Выходной перенесён с 9 мая на 10 мая.
+  Источник: ТК РФ\, ст. 112
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-06-12-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Нерабочий праздничный день: День Рос
+ сии
+DESCRIPTION:День России — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-06-14-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Выходной день (перенос с 12 июня)
+DESCRIPTION:Выходной перенесён с 12 июня на 14 ию
+ ня. Источник: ТК РФ\, ст. 112
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-11-04-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:Нерабочий праздничный день: День нар
+ одного единства
+DESCRIPTION:День народного единства — нерабоч
+ ий праздничный день по ТК РФ\, ст. 112. Прои
+ зводственный календарь: https://proizvodstvenny-kalen
+ dar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-11-05-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:Выходной день (перенос с 2 января)
+DESCRIPTION:Выходной перенесён с 2 января на 5 н
+ оября. Источник: постановление № 1187 от 17.
+ 09.2026\, http://publication.pravo.gov.ru/document/0001202609180037
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-12-31-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Выходной день (перенос с 3 января)
+DESCRIPTION:Выходной перенесён с 3 января на 31 
+ декабря. Источник: постановление № 1187 от
+  17.09.2026\, http://publication.pravo.gov.ru/document/0001202609180037
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

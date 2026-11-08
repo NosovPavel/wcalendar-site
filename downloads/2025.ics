@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 25//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь 2025
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2025-01-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-01-02-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-01-03-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-01-04-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-01-05-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-01-06-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250107
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-01-07-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250107
+DTEND;VALUE=DATE:20250108
+SUMMARY:Нерабочий праздничный день: Рождест
+ во Христово
+DESCRIPTION:Рождество Христово — нерабочий пр
+ аздничный день по ТК РФ\, ст. 112. Производс
+ твенный календарь: https://proizvodstvenny-kalendar.ru/202
+ 5/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-01-08-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20250109
+SUMMARY:Нерабочий праздничный день: Новогод
+ ние каникулы
+DESCRIPTION:Новогодние каникулы — нерабочий п
+ раздничный день по ТК РФ\, ст. 112. Производ
+ ственный календарь: https://proizvodstvenny-kalendar.ru/2
+ 025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-02-23-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250223
+DTEND;VALUE=DATE:20250224
+SUMMARY:Нерабочий праздничный день: День защ
+ итника Отечества
+DESCRIPTION:День защитника Отечества — нерабо
+ чий праздничный день по ТК РФ\, ст. 112. Про
+ изводственный календарь: https://proizvodstvenny-kal
+ endar.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-03-08-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:Нерабочий праздничный день: Междуна
+ родный женский день
+DESCRIPTION:Международный женский день — нера
+ бочий праздничный день по ТК РФ\, ст. 112. П
+ роизводственный календарь: https://proizvodstvenny
+ -kalendar.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-05-01-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Нерабочий праздничный день: Праздни
+ к Весны и Труда
+DESCRIPTION:Праздник Весны и Труда — нерабочи
+ й праздничный день по ТК РФ\, ст. 112. Произ
+ водственный календарь: https://proizvodstvenny-kalenda
+ r.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-05-02-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:Выходной день (перенос с 4 января)
+DESCRIPTION:Выходной перенесён с 4 января на 2 м
+ ая. Источник: постановление № 1335 от 04.10.202
+ 4\, http://publication.pravo.gov.ru/document/0001202410040023
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-05-08-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY:Выходной день (перенос с 23 февраля)
+DESCRIPTION:Выходной перенесён с 23 февраля на 8
+  мая. Источник: постановление № 1335 от 04.10.
+ 2024\, http://publication.pravo.gov.ru/document/0001202410040023
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-05-09-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Нерабочий праздничный день: День Поб
+ еды
+DESCRIPTION:День Победы — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-06-12-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250612
+DTEND;VALUE=DATE:20250613
+SUMMARY:Нерабочий праздничный день: День Рос
+ сии
+DESCRIPTION:День России — нерабочий праздничн
+ ый день по ТК РФ\, ст. 112. Производственный
+  календарь: https://proizvodstvenny-kalendar.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-06-13-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:Выходной день (перенос с 8 марта)
+DESCRIPTION:Выходной перенесён с 8 марта на 13 и
+ юня. Источник: постановление № 1335 от 04.10.2
+ 024\, http://publication.pravo.gov.ru/document/0001202410040023
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-11-03-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251104
+SUMMARY:Выходной день (перенос с 1 ноября)
+DESCRIPTION:Выходной перенесён с 1 ноября на 3 н
+ оября. Источник: постановление № 1335 от 04.
+ 10.2024\, http://publication.pravo.gov.ru/document/0001202410040023
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-11-04-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:Нерабочий праздничный день: День нар
+ одного единства
+DESCRIPTION:День народного единства — нерабоч
+ ий праздничный день по ТК РФ\, ст. 112. Прои
+ зводственный календарь: https://proizvodstvenny-kalen
+ dar.ru/2025/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2025-12-31-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261107T120000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Выходной день (перенос с 5 января)
+DESCRIPTION:Выходной перенесён с 5 января на 31 
+ декабря. Источник: постановление № 1335 от
+  04.10.2024\, http://publication.pravo.gov.ru/document/0001202410040023
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

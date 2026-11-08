@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WCalendar//Производственный календарь 20
+ 27//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Производственный календарь: Февр
+ аль 2027
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:wcalendar-2027-02-22-transfer@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Выходной день (перенос с 20 февраля)
+DESCRIPTION:Выходной перенесён с 20 февраля на 2
+ 2 февраля. Источник: постановление № 1187 о
+ т 17.09.2026\, http://publication.pravo.gov.ru/document/0001202609180037
+CATEGORIES:Перенос
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wcalendar-2027-02-23-holiday@proizvodstvenny-kalendar.ru
+DTSTAMP:20261106T120000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Нерабочий праздничный день: День защ
+ итника Отечества
+DESCRIPTION:День защитника Отечества — нерабо
+ чий праздничный день по ТК РФ\, ст. 112. Про
+ изводственный календарь: https://proizvodstvenny-kal
+ endar.ru/2027/
+CATEGORIES:Праздник
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
